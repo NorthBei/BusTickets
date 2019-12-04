@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.715d3e89e0dd074b0b9fb18ade072fdf.js"
+  "precache-manifest.7eff30c4449b6bb94f8e973c26af4210.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ubus"});
