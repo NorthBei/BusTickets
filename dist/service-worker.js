@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.7eff30c4449b6bb94f8e973c26af4210.js"
+  "/BusTickets/dist/precache-manifest.03b2e66850144d5b2c345de208d78c0b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ubus"});
